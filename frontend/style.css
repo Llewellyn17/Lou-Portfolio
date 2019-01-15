@@ -1,3 +1,6 @@
-h1 { color: rgb(6, 6, 8);
-font-size: 40px;
-padding-left: 400px}
+.section1 { background-color: brown;
+
+}
+html {background-color: rgba(51, 146, 235, 0.747)}
+.section2 {display: flex;
+justify-content:space-evenly}
